@@ -24,8 +24,6 @@ Uygulama, temel işlevlerini yerine getirmek dışında (örneğin internet eri�
 Bu gizlilik politikası ile ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 E-posta: omerfarukyartim95@gmail.com
 </p>
-
-    <h1>google.com, pub-8631029021853898, DIRECT, f08c47fec0942fa0</h1>
     
 </body>
 </html># sealdev
